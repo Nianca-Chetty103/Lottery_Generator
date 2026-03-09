@@ -7,3 +7,5 @@ A program where it is able to predict the next winning numbers in the lottery - 
 ## Tech Stack
 -JavaScript
 -HTML & CSS
+
+## Preview 
