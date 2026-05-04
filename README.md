@@ -3,11 +3,13 @@ A program where it is able to predict the next winning numbers in the lottery - 
 
 # Features 
 - the system would be able to randomise a selection of most commonly selected numbers in the winning draw.
+- randomly select number to possibly win 
 
 ## Tech Stack
 - JavaScript
 - HTML & CSS
 - Php
+- mysql 
 
 
 ## Preview 
